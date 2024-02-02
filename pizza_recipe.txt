@@ -1,5 +1,5 @@
 Base-> Normal Crust
 Tomato Sauce
 Cheese-> Extra
-toppings-> Pepporoni, Green Bell Peppers, Onion, Normal Tomatoes
+toppings-> Pepporoni, Black Olives, Green Bell Peppers, Onion, Normal Tomatoes
 ---------------------
