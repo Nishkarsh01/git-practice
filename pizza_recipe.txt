@@ -1,5 +1,5 @@
 Base-> Thin Crust
 Tomato Sauce
 Cheese-> Extra
-toppings-> Pepporoni, Black Olives, Green Bell Peppers, Onion, Normal Tomatoes
+toppings-> Pepporoni, Black Olives, Green Bell Peppers, Onion, Normal Tomatoes, sun-dried tomatoes
 ---------------------
